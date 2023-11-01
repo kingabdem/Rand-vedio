@@ -24,12 +24,4 @@ elementButton.addEventListener("click",function () {
   }
   console.log(y);
 })
-// let affichage = document.getElementsByClassName("afff")[0];
-// let elementButton = document.getElementById("rand");
-// elementButton.addEventListener("click",function () {
-//   let y = Math.floor(Math.random() * LienIfram.length);
-//   affichage.innerHTML = LienIfram[y];
 
-  
-//   console.log(y);
-// })
